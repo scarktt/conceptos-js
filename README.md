@@ -16,7 +16,7 @@ Este repositorio ha sido creado con la intención de compartir en español una s
 
 ## 1. Contexto de Ejecución de JavaScript
 
-<img src="https://i.imgur.com/25yaq7e.png" align="center" />
+<img src="https://i.imgur.com/xCL4pIk.jpg" align="center" />
 
 ### Artículos
 * [Execution context, Scope chain and JavaScript internals](https://medium.com/@happymishra66/execution-context-in-javascript-319dd72e8e2c)
